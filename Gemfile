@@ -35,7 +35,6 @@ gem 'jbuilder', '~> 2.5'
 
 group :production do
   gem 'pg'
-  gem install bundler
 end
 
 group :development, :test do
